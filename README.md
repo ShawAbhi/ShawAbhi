@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:abhishek.shaw.official@gmail.com">✉️ Email</a> • 
   <a href="https://github.com/ShawAbhi">GitHub</a> • 
-  <a href="https://www.linkedin.com/in/mgs3d/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ShawAbhi/">LinkedIn</a>
 </p>
 
 <!-- Badges / Dynamic Stats -->
