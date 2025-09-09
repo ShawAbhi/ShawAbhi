@@ -10,8 +10,11 @@
 <!-- Badges / Dynamic Stats -->
 <p align="center">
   <!-- Example badges, replace with actual links -->
+  
+  <img src="https://img.shields.io/badge/Platform-Android-blue" alt="Android"/>
+  <img src="https://img.shields.io/badge/Platform-IOS-blue" alt="IOS"/>
+  <img src="https://img.shields.io/badge/Platform-PC-blue" alt="PC"/>
   <img src="https://img.shields.io/badge/Platform-VR-blue" alt="VR"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShawAbhi&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 ---
