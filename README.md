@@ -11,10 +11,10 @@
 <p align="center">
   <!-- Example badges, replace with actual links -->
   
-  <img src="https://img.shields.io/badge/Platform-Android-blue" alt="Android"/>
-  <img src="https://img.shields.io/badge/Platform-IOS-blue" alt="IOS"/>
+  <img src="https://img.shields.io/badge/Platform-Android-green" alt="Android"/>
+  <img src="https://img.shields.io/badge/Platform-IOS-aqua" alt="IOS"/>
   <img src="https://img.shields.io/badge/Platform-PC-blue" alt="PC"/>
-  <img src="https://img.shields.io/badge/Platform-VR-blue" alt="VR"/>
+  <img src="https://img.shields.io/badge/Platform-VR-purple" alt="VR"/>
 </p>
 
 ---
