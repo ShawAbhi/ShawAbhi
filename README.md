@@ -22,6 +22,9 @@
 ##  About Me
 I’m a passionate **Game Developer** with 5+ years of experience in building immersive and scalable gameplay systems using Unreal Engine (C++ & Blueprints). My work spans mobile, PC, and VR platforms—focusing on multiplayer performance, shaders, and interactive storytelling.
 
+<script type="module" src="https://unpkg.com/@splinetool/viewer@1.10.57/build/spline-viewer.js"></script>
+<spline-viewer url="undefined"></spline-viewer>
+
 ---
 
 ##  Tech Stack  
