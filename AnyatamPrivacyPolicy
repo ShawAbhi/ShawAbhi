@@ -1,0 +1,45 @@
+
+# Privacy Policy for Anyatam (Demo)
+
+**Last Updated:** September 1, 2026
+
+## 1. Introduction
+
+Welcome to **Anyatam**. This Privacy Policy explains how we collect, use, and protect your information when you play the Anyatam demo and interact with our services. Because Anyatam uses Epic Account Services for player authentication and social features, this policy specifically addresses data accessed through your Epic Games account.
+
+## 2. Information We Collect
+
+As a demo, Anyatam is designed to collect the absolute minimum amount of data required to function. When you authenticate using Epic Account Services, we request access to the following:
+
+* **Basic Profile Data:** This is the minimum access level required for the game to function. It allows us to authenticate your identity with Epic Online Services and access basic information like your screen name. We do not have access to your password, payment information, or personal contact details.
+* **Game-Specific Status (Optional):** We may access basic presence data, such as your current in-game status, game mode, or active map, strictly for matchmaking and in-game networking.
+* **Local Telemetry:** We may collect anonymous gameplay telemetry, session duration, and crash reports locally to help optimize game engine performance and fix technical issues prior to full release.
+
+## 3. How We Use Your Information
+
+The data we collect is used exclusively for the following purposes:
+
+* To log you into the game via Epic Account Services.
+* To display your screen name in-game.
+* To track bug reports and improve stability.
+
+We **do not** sell, rent, or use your data for targeted advertising.
+
+## 4. Third-Party Services (Epic Games)
+
+Anyatam utilizes Epic Account Services to manage authentication. By logging in, you are subject to the data privacy and consent parameters defined by Epic Games. Epic Games requires explicit consent for any data accessed by Anyatam. You can review the Epic Games Privacy Policy for more information on how they handle your core account data.
+
+## 5. Data Retention and Security
+
+Any telemetry or session data collected during the demo phase is stored securely and is automatically purged after the demo evaluation period ends. Account IDs are only retained as long as you maintain an active session or save file with Anyatam.
+
+## 6. Your Rights and Revoking Access
+
+Epic Games' data privacy policy requires explicit consent for each type of data being accessed by this application. You cannot partially consent to data access requests; you must fully consent, or not consent at all. You retain the right to revoke Anyatam's access to your Epic Account data at any time from outside the application via your Epic Games account settings.
+
+## 7. Contact Information
+
+If you have any questions or concerns regarding this Privacy Policy or how your data is handled during the Anyatam demo, please reach out directly:
+
+* **Developer:** Abhishek Shaw
+* **Location:** Bengaluru, Karnataka, India
